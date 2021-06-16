@@ -1,0 +1,24 @@
+{
+  "name": "Caps-phase-3-caps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TJSOmega/Caps-phase-3-caps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TJSOmega/Caps-phase-3-caps/issues"
+  },
+  "homepage": "https://github.com/TJSOmega/Caps-phase-3-caps#readme",
+  "dependencies": {
+    "faker": "^5.5.3"
+  }
+}
