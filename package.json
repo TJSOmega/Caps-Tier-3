@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/TJSOmega/Caps-phase-3-caps#readme",
   "dependencies": {
-    "faker": "^5.5.3"
+    "faker": "^5.5.3",
+    "socket.io": "^4.1.3"
   }
 }
